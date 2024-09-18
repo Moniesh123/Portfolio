@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.46c46ce8.css",
-    "main.js": "/Portfolio/static/js/main.5ba6d642.js",
-    "static/js/453.f19e9853.chunk.js": "/Portfolio/static/js/453.f19e9853.chunk.js",
-    "static/media/Tailor.png": "/Portfolio/static/media/Tailor.d81dfeba50be4b949314.png",
-    "static/media/Moniesh1.jpg": "/Portfolio/static/media/Moniesh1.6df86be1d80f365d8aaa.jpg",
-    "static/media/codingboy1.jpg": "/Portfolio/static/media/codingboy1.9c7db986675635f41788.jpg",
-    "static/media/laptop.avif": "/Portfolio/static/media/laptop.823254ed8b67f762b020.avif",
-    "static/media/todolist.png": "/Portfolio/static/media/todolist.3d7aead916aa69f36a28.png",
-    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Portfolio/index.html",
-    "main.46c46ce8.css.map": "/Portfolio/static/css/main.46c46ce8.css.map",
-    "main.5ba6d642.js.map": "/Portfolio/static/js/main.5ba6d642.js.map",
-    "453.f19e9853.chunk.js.map": "/Portfolio/static/js/453.f19e9853.chunk.js.map"
+    "main.css": "/static/css/main.46c46ce8.css",
+    "main.js": "/static/js/main.156f4e52.js",
+    "static/js/453.f19e9853.chunk.js": "/static/js/453.f19e9853.chunk.js",
+    "static/media/Tailor.png": "/static/media/Tailor.d81dfeba50be4b949314.png",
+    "static/media/Moniesh1.jpg": "/static/media/Moniesh1.6df86be1d80f365d8aaa.jpg",
+    "static/media/codingboy1.jpg": "/static/media/codingboy1.9c7db986675635f41788.jpg",
+    "static/media/laptop.avif": "/static/media/laptop.823254ed8b67f762b020.avif",
+    "static/media/todolist.png": "/static/media/todolist.3d7aead916aa69f36a28.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.46c46ce8.css.map": "/static/css/main.46c46ce8.css.map",
+    "main.156f4e52.js.map": "/static/js/main.156f4e52.js.map",
+    "453.f19e9853.chunk.js.map": "/static/js/453.f19e9853.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46c46ce8.css",
-    "static/js/main.5ba6d642.js"
+    "static/js/main.156f4e52.js"
   ]
 }
