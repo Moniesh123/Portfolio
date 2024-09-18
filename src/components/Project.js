@@ -5,6 +5,7 @@ import Footer from './Footer';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSquareGithub ,faLinkedin} from '@fortawesome/free-brands-svg-icons';
 
+
 function Project() {
 
     const handlegithub1=()=>{
@@ -17,6 +18,7 @@ function Project() {
         window.open('https://www.linkedin.com/in/moniesh-front-end-developer/','_blank')
     }
     return (
+        
         <div className="project-container scrollbar">
             <h1 className="project-border">Projects</h1>
             <div className="projects">
